@@ -16,10 +16,9 @@ Twoim celem jest **zrozumienie danych**, wybranie **niektórych informacji** i p
 Przeanalizuj dane i:
 - zdecyduj, które pola są dla Ciebie istotne,
 - agreguj dane w sposób, który uznasz za sensowny,
-- oczyść dane tam, gdzie jest to potrzebne (np. niespójności nazw, różne skale wartości).
 
 Przygotuj **maksymalnie 3** wykresy.
-- samodzielnie zdecyduj, **jakie wizualizacje** przygotujesz,
+- samodzielnie zdecyduj, **jakie wizualizacje** przygotujesz (na podstawie wybranych przez Ciebie danych),
 - nie narzucamy konkretnych metryk ani podziałów,
 - zależy nam na **selekcji najistotniejszych dla Ciebie informacji**, nie na pokazaniu wszystkiego.
 
