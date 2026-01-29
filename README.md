@@ -58,6 +58,6 @@ Na rozwiazanie masz dokładnie 7 dni licząc od daty otrzymania tego zadania (ot
 ## Jak zacząć i wysłać rozwiązanie
 - wykonaj fork tego repozytorium na swoje konto GitHub,
 - upewnij się, że wszystkie zmiany są wypchnięte do Twojego repozytorium na GitHubie,
-- wyślij link do swojego repozytorium zawierającego rozwiązanie na adres e-mail: [TU WPISZ ADRES E-MAIL].
+- wyślij link do swojego repozytorium zawierającego rozwiązanie na adres e-mail: rekrutacja@blacklabel.net
 
 Nie wysyłaj Pull Requesta do tego repozytorium - oceniany będzie wyłącznie kod w Twoim forku.
